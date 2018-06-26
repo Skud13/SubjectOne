@@ -1,5 +1,5 @@
 # SubjectOne
-SubjectOne - Dietary Logging
+SubjectOne - Dietary Logging (Looking after Number 1, on the inside)
 
 The purpose of this is to log daily intake and check against a predefined diet profile and advise if on target. 
 Intake objects can be obtained from other resources such as Web pages or manually entered or overridden. 
@@ -18,5 +18,6 @@ Version 0.1       Conceptual
 Author            Alan Skilander
 
 Date              25th June 2018
+
        
 
